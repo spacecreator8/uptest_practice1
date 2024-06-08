@@ -1,0 +1,21 @@
+{
+    "main_url":"https://dev.profteam.su/login",
+    "Studentlogin": "testerStudent",
+    "Emploerlogin": "testerEmployer",
+    "Adminlogin": "testerAdmin",
+    "password": "Password1",
+    "login": "spcc",
+    "passw": "UPpractice1",
+    "pass": "Paword1",
+    "nlogin": "sdsaf",
+    "coledge": "ТТИ",
+    "speciality": "Алма",
+    "text": "Бакалавр",
+    "from_year": 2022,
+    "to_year": 2025,
+    "from_year_wrong": 2,
+    "to_year_wrong": 1999,
+    "role_name": "чсммсчсмч",
+    "role_address": "Томск",
+    "role_comment": "йцуйцуйцу фывфыв"
+}
